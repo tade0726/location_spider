@@ -11,7 +11,7 @@ redis = "*"
 pandas = "*"
 "bs4" = "*"
 pyspider = "*"
-pycrypto = "*"
+cryptography = ">=2.3"
 
 [dev-packages]
 jupyterlab = "*"
